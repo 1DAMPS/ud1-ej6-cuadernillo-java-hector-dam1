@@ -4,6 +4,7 @@ public class ej3 {
         System.out.println("¿Qué edad tienes?");
         Scanner sc = new Scanner(System.in);
         int edad = sc.nextInt();
-        System.out.println("Tienes " +edad+ " años");
+        System.out.println("Tienes " +edad+ " años.");
+        sc.close();
     }
 }
