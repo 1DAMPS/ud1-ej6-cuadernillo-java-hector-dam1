@@ -1,0 +1,5 @@
+2edad: No valido, empieza por un numero.
+curso: Es valido
+while: No valido, es una palabra rreserbada.
+Nombre: Es valido
+precioTotal: Es valido
